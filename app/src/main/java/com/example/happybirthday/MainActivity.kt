@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 
 
                 ) {
-                    GreetingText(" Happy Birthday samoura ", from = "From SamiraHadj")
+                    //GreetingText(" Happy Birthday samoura ", from = "From SamiraHadj")
                 }
             }
         }
